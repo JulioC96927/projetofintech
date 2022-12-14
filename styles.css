@@ -1,0 +1,37 @@
+body {
+    margin: 10;
+    background-color: black;
+  
+}
+#container{
+    width: 100vw;
+    height: 100vh;
+    background-color:rgb(15, 15, 15)
+    
+}
+label{
+   
+    border-color: white;
+    
+}
+i{color: rgb(255, 0, 0);
+  
+}
+i2{
+    color: blue;
+    
+}
+div{
+    background: url(https://img.freepik.com/vetores-gratis/fundo-abstrato-amarelo-e-preto-com-textura-suja-de-grunge_1017-28559.jpg?w=826&t=st=1670830658~exp=1670831258~hmac=d5776f38757be99375bbf8bdd79e80b22a54c3b3bf9583231b0e6dec9c41e2ee)
+    
+    }
+button{
+    
+}
+
+    
+
+   
+ 
+    
+    
